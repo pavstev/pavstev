@@ -34,7 +34,7 @@
 ![React](https://img.shields.io/badge/React%2019-292524?style=flat-square&logo=react&logoColor=DBA85C)
 ![Vite](https://img.shields.io/badge/Vite-292524?style=flat-square&logo=vite&logoColor=DBA85C)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20v4-292524?style=flat-square&logo=tailwindcss&logoColor=DBA85C)
-![Playwright](https://img.shields.io/badge/Playwright-292524?style=flat-square&logo=playwright&logoColor=87B083)
+![Playwright](https://img.shields.io/badge/Playwright-292524?style=flat-square)
 ![Vitest](https://img.shields.io/badge/Vitest-292524?style=flat-square&logo=vitest&logoColor=87B083)
 ![Biome](https://img.shields.io/badge/Biome-292524?style=flat-square&logo=biome&logoColor=87B083)
 ![ESLint](https://img.shields.io/badge/ESLint-292524?style=flat-square&logo=eslint&logoColor=87B083)
@@ -42,9 +42,9 @@
 ![Redis](https://img.shields.io/badge/Redis-292524?style=flat-square&logo=redis&logoColor=7FA6CC)
 ![Docker](https://img.shields.io/badge/Docker-292524?style=flat-square&logo=docker&logoColor=7FA6CC)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-292524?style=flat-square&logo=kubernetes&logoColor=7FA6CC)
-![AWS](https://img.shields.io/badge/AWS-292524?style=flat-square&logo=amazonwebservices&logoColor=7FA6CC)
-![just](https://img.shields.io/badge/just-292524?style=flat-square&logo=gnubash&logoColor=EDE8E3)
-![mise](https://img.shields.io/badge/mise-292524?style=flat-square&logo=rye&logoColor=EDE8E3)
+![AWS](https://img.shields.io/badge/AWS-292524?style=flat-square)
+![just](https://img.shields.io/badge/just-292524?style=flat-square)
+![mise](https://img.shields.io/badge/mise-292524?style=flat-square)
 
 ### 📊 Stats
 
