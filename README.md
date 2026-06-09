@@ -1,0 +1,70 @@
+<div align="center">
+
+<img src="./assets/logo.svg" width="116" alt="logo" />
+
+# Stevan Pavlović
+
+<a href="https://stevanpavlovic.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=E0825F&center=true&vCenter=true&width=780&height=42&lines=software+engineer:+correctness,+craft,+DX;11%2B+yrs+backend+%26+distributed+systems;now+building:+edge+services+%2B+fast+CLIs+in+Rust+%2F+Go" alt="software engineer — correctness, craft, developer experience" />
+</a>
+
+</div>
+
+---
+
+🧭 &nbsp;Backend & distributed-systems engineer. I care about **correctness, craft, and developer experience** — systems that hold up under pressure and stay pleasant to work in.
+
+### 🚀 Shipped
+
+- 🛠️ **[cronfluent](https://cronfluent.stevanpavlovic.com)** — visual cron builder. React 19 · Vite · Tailwind v4 · OKLCH theming · offline PWA · unit + Playwright e2e + axe a11y, all behind a single `verify` gate.
+- ⚙️ **dotfiles** — reproducible macOS env via **chezmoi**. Idempotent · age-encrypted secrets · version-controlled Claude Code skills synced across machines.
+
+### 🚧 Currently building
+
+- 🌐 Edge services on **Cloudflare Workers + D1**
+- 🦀 Fast CLI tooling in **Rust / Go**
+
+### 🧰 Toolbox
+
+<sub>shipping with today</sub>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-292524?style=flat-square&logo=typescript&logoColor=E0825F)
+![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=nodedotjs&logoColor=E0825F)
+![NestJS](https://img.shields.io/badge/NestJS-292524?style=flat-square&logo=nestjs&logoColor=E0825F)
+![React](https://img.shields.io/badge/React%2019-292524?style=flat-square&logo=react&logoColor=DBA85C)
+![Vite](https://img.shields.io/badge/Vite-292524?style=flat-square&logo=vite&logoColor=DBA85C)
+![Tailwind](https://img.shields.io/badge/Tailwind%20v4-292524?style=flat-square&logo=tailwindcss&logoColor=DBA85C)
+![Playwright](https://img.shields.io/badge/Playwright-292524?style=flat-square&logo=playwright&logoColor=87B083)
+![Vitest](https://img.shields.io/badge/Vitest-292524?style=flat-square&logo=vitest&logoColor=87B083)
+![Biome](https://img.shields.io/badge/Biome-292524?style=flat-square&logo=biome&logoColor=87B083)
+![ESLint](https://img.shields.io/badge/ESLint-292524?style=flat-square&logo=eslint&logoColor=87B083)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292524?style=flat-square&logo=postgresql&logoColor=7FA6CC)
+![Redis](https://img.shields.io/badge/Redis-292524?style=flat-square&logo=redis&logoColor=7FA6CC)
+![Docker](https://img.shields.io/badge/Docker-292524?style=flat-square&logo=docker&logoColor=7FA6CC)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-292524?style=flat-square&logo=kubernetes&logoColor=7FA6CC)
+![AWS](https://img.shields.io/badge/AWS-292524?style=flat-square&logo=amazonwebservices&logoColor=7FA6CC)
+![just](https://img.shields.io/badge/just-292524?style=flat-square&logo=gnubash&logoColor=EDE8E3)
+![mise](https://img.shields.io/badge/mise-292524?style=flat-square&logo=rye&logoColor=EDE8E3)
+
+### 📊 Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pavstev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=E0825F&icon_color=DBA85C&text_color=EDE8E3&bg_color=292524" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavstev&layout=compact&hide_border=true&langs_count=8&title_color=E0825F&text_color=EDE8E3&bg_color=292524" alt="Top languages" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/pavstev/pavstev/output/snake.svg" alt="contribution snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+🌐 &nbsp;**[stevanpavlovic.com](https://stevanpavlovic.com)**
+
+<sub>snake auto-regenerates daily via GitHub Actions 🐍</sub>
+
+</div>
