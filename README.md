@@ -13,8 +13,8 @@
   <a href="https://stevanpavlovic.com/resume.pdf"><img src="assets/icon-resume.svg" width="40" height="40" alt="Résumé (PDF)"></a>
 </p>
 
-## Open source
+## 3 open source projects
 
-- **[website](https://github.com/pavstev/website)** · Personal site: a contact card over a live WebGL sky. Next.js 16, Tailwind 4, three.js, Cloudflare.
-- **[sapat](https://github.com/pavstev/sapat)** · macOS menu-bar app that turns spoken Serbian into clean, structured text. Runs on-device with WhisperKit and MLX. No cloud.
-- **[cronfluent](https://github.com/pavstev/cronfluent)** · Visual builder for 5-field cron expressions. Edit the pattern or paste a string; the URL hash is the source of truth.
+- **[website](https://github.com/pavstev/website)** · Personal site: a contact card over a live WebGL sky. Next.js 16, Tailwind 4, three.js, Cloudflare. · TypeScript, CSS
+- **[sapat](https://github.com/pavstev/sapat)** · macOS menu-bar app that turns spoken Serbian into clean, structured text. Runs on-device with WhisperKit and MLX. No cloud. · Swift
+- **[cronfluent](https://github.com/pavstev/cronfluent)** · Visual builder for 5-field cron expressions. Edit the pattern or paste a string; the URL hash is the source of truth. · HTML, TypeScript
