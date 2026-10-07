@@ -1,5 +1,6 @@
+<!-- Generated from pavstev/website (src/profile). Do not edit here. -->
 <p align="center">
-  <a href="https://stevanpavlovic.com"><img src="assets/header.jpg" alt="Stevan Pavlović, backend and distributed-systems engineer and tech lead"></a>
+  <a href="https://stevanpavlovic.com"><img src="assets/header.svg" alt="Stevan Pavlović, Backend &amp; Distributed-Systems Engineer · Tech Lead"></a>
 </p>
 
 <p align="center">
