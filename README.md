@@ -18,3 +18,8 @@
 - **[website](https://github.com/pavstev/website)** · Personal site: a contact card over a live WebGL sky. Next.js 16, Tailwind 4, three.js, Cloudflare. · TypeScript, CSS
 - **[sapat](https://github.com/pavstev/sapat)** · macOS menu-bar app that turns spoken Serbian into clean, structured text. Runs on-device with WhisperKit and MLX. No cloud. · Swift
 - **[cronfluent](https://github.com/pavstev/cronfluent)** · Visual builder for 5-field cron expressions. Edit the pattern or paste a string; the URL hash is the source of truth. · HTML, TypeScript
+
+## 2 products
+
+- **[hirista](https://hirista.app)** · Solo founder · 2026. Scores your saved jobs and writes the résumé for each.
+- **[Safety Real Time](https://safetyrealtime.com)** · Co-founder & CTO · since 2022. Fleet software for trucking: pre-trip checks, live dashboards.
