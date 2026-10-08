@@ -21,5 +21,5 @@
 
 ## 2 products
 
-- **[hirista](https://hirista.app)** · Solo founder · 2026. Scores your saved jobs and writes the résumé for each.
-- **[Safety Real Time](https://safetyrealtime.com)** · Co-founder & CTO · since 2022. Fleet software for trucking: pre-trip checks, live dashboards.
+- **[hirista](https://hirista.app)** · Solo founder · 2026. Every saved job scored, every application prepared. You press send.
+- **[Safety Real Time](https://safetyrealtime.com)** · Co-founder & CTO · since 2022. Keeps trucking fleets inspected, compliant and visible in real time.
