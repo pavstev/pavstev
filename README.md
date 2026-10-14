@@ -15,8 +15,8 @@
 
 ## 4 open source projects
 
-- **[dotfiles](https://github.com/pavstev/dotfiles)** · One command sets up a Mac for coding with Claude Code and Cursor. · Python, Shell, HTML
 - **[website](https://github.com/pavstev/website)** · Personal site: a contact card over a live WebGL sky. Next.js 16, Tailwind 4, three.js, Cloudflare. · TypeScript, CSS
+- **[dotfiles](https://github.com/pavstev/dotfiles)** · One command sets up a Mac for coding with Claude Code and Cursor. · Python, Shell
 - **[sapat](https://github.com/pavstev/sapat)** · macOS menu-bar app that turns spoken Serbian into clean, structured text. Runs on-device with WhisperKit and MLX. No cloud. · Swift
 - **[cronfluent](https://github.com/pavstev/cronfluent)** · Visual builder for 5-field cron expressions. Edit the pattern or paste a string; the URL hash is the source of truth. · HTML, TypeScript
 
