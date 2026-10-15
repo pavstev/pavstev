@@ -20,7 +20,6 @@
 - **[sapat](https://github.com/pavstev/sapat)** · macOS menu-bar app that turns spoken Serbian into clean, structured text. Runs on-device with WhisperKit and MLX. No cloud. · Swift
 - **[cronfluent](https://github.com/pavstev/cronfluent)** · Visual builder for 5-field cron expressions. Edit the pattern or paste a string; the URL hash is the source of truth. · HTML, TypeScript
 
-## 2 products
+## 1 product
 
-- **[hirista](https://hirista.app)** · Solo founder · 2026. Every saved job scored, every application prepared. You press send.
 - **[Safety Real Time](https://safetyrealtime.com)** · Co-founder & CTO · since 2022. Keeps trucking fleets inspected, compliant and visible in real time.
