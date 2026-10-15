@@ -1,10 +1,10 @@
 <!-- Generated from pavstev/website (src/profile). Do not edit here. -->
 <p align="center">
-  <a href="https://stevanpavlovic.com"><img src="assets/header.svg" alt="Stevan Pavlović, Backend &amp; Distributed-Systems Engineer · Tech Lead"></a>
+  <a href="https://stevanpavlovic.com"><img src="assets/header.svg" alt="Stevan Pavlović, Software Engineer · Tech Lead"></a>
 </p>
 
 <p align="center">
-  Hi! I’m a backend and distributed-systems engineer living in Vienna <img src="assets/flag-at.svg" height="14" alt="Austria">. For eleven years I have built systems people rely on, in fintech, betting, healthtech and fleet logistics. I like small teams, clear interfaces and software that stays quiet in production.
+  Hi, I’m Stevan. I have been a software engineer for more than eleven years, across many stacks and teams. Since 2024 I have worked as an AI-powered engineer, and I ship faster than ever. My work runs in fintech, betting, healthtech and fleet logistics. I live in Vienna <img src="assets/flag-at.svg" height="14" alt="Austria">.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 4 open source projects
 
-- **[website](https://github.com/pavstev/website)** · Personal site: a contact card over a live WebGL sky. Next.js 16, Tailwind 4, three.js, Cloudflare. · TypeScript, CSS
+- **[website](https://github.com/pavstev/website)** · Personal site: a contact card over a live WebGL sky. Next.js 16, Tailwind 4, three.js, Cloudflare. · TypeScript, CSS, Astro
 - **[dotfiles](https://github.com/pavstev/dotfiles)** · One command sets up a Mac for coding with Claude Code and Cursor. · Python, Shell
 - **[sapat](https://github.com/pavstev/sapat)** · macOS menu-bar app that turns spoken Serbian into clean, structured text. Runs on-device with WhisperKit and MLX. No cloud. · Swift
 - **[cronfluent](https://github.com/pavstev/cronfluent)** · Visual builder for 5-field cron expressions. Edit the pattern or paste a string; the URL hash is the source of truth. · HTML, TypeScript
