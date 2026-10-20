@@ -3,7 +3,7 @@
 
 **Software Engineer · Tech Lead**
 
-Hi, I’m Stevan. I have been a software engineer for more than eleven years, across many stacks and teams. Since 2024 I have worked as an AI-powered engineer, and I ship faster than ever. My work runs in fintech, betting, healthtech and fleet logistics. I live in Vienna.
+Hi, I’m Stevan. I have been a software engineer for more than eleven years, across many stacks and teams. Since 2024 I have worked as an AI-powered engineer, and I ship faster than ever. My work runs in fintech, betting, healthtech and fleet logistics.
 
 [Website](https://stevanpavlovic.com) · [LinkedIn](https://www.linkedin.com/in/stevanpavlovic/) · [Résumé (PDF)](https://stevanpavlovic.com/resume.pdf)
 
@@ -17,7 +17,7 @@ Hi, I’m Stevan. I have been a software engineer for more than eleven years, ac
 
 | Project | Built with | What it is |
 | :-- | :-- | :-- |
-| **[website](https://github.com/pavstev/website)** | TypeScript · CSS | Personal site: a contact card over a live WebGL sky. Next.js 16, Tailwind 4, three.js, Cloudflare. |
-| **[dotfiles](https://github.com/pavstev/dotfiles)** | Rust · Python · Shell | One command sets up a Mac, Debian, Ubuntu or Windows (Git Bash) for coding with Claude Code, Cursor and Opencode. |
+| **[website](https://github.com/pavstev/website)** | TypeScript · CSS · Astro | Personal site: a contact card over a painted WebGL sky with the real sun, moon and weather. Astro 7, React 19, Tailwind 4, Cloudflare. |
+| **[dotfiles](https://github.com/pavstev/dotfiles)** | Rust · Shell | One command sets up a Mac, Debian, Ubuntu or Windows (Git Bash) for coding with Claude Code, Cursor and Opencode. |
 | **[sapat](https://github.com/pavstev/sapat)** | Swift | macOS menu-bar app that turns spoken Serbian into clean, structured text. Runs on-device with WhisperKit and MLX. No cloud. |
 | **[cronfluent](https://github.com/pavstev/cronfluent)** | HTML · TypeScript | Visual builder for 5-field cron expressions. Edit the pattern or paste a string; the URL hash is the source of truth. |
