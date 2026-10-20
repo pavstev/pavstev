@@ -18,6 +18,6 @@ Hi, I’m Stevan. I have been a software engineer for more than eleven years, ac
 | Project | Built with | What it is |
 | :-- | :-- | :-- |
 | **[website](https://github.com/pavstev/website)** | TypeScript · CSS · Astro | Personal site: a contact card over a painted WebGL sky with the real sun, moon and weather. Astro 7, React 19, Tailwind 4, Cloudflare. |
-| **[dotfiles](https://github.com/pavstev/dotfiles)** | Rust · Shell | One command sets up a Mac, Debian, Ubuntu or Windows (Git Bash) for coding with Claude Code, Cursor and Opencode. |
+| **[dotfiles](https://github.com/pavstev/dotfiles)** | Rust · Shell | AI-ready dotfiles for macOS, Linux and Windows. One command sets up Claude Code, Cursor and Opencode with shared skills, agents, rules and guard hooks, plus a fast zsh terminal. |
 | **[sapat](https://github.com/pavstev/sapat)** | Swift | macOS menu-bar app that turns spoken Serbian into clean, structured text. Runs on-device with WhisperKit and MLX. No cloud. |
 | **[cronfluent](https://github.com/pavstev/cronfluent)** | HTML · TypeScript | Visual builder for 5-field cron expressions. Edit the pattern or paste a string; the URL hash is the source of truth. |
