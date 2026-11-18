@@ -18,7 +18,7 @@ Hi, I’m Stevan. I have been a software engineer for more than eleven years, ac
 | Project | Built with | What it is |
 | :-- | :-- | :-- |
 | **[website](https://github.com/pavstev/website)** | TypeScript · CSS · Astro | Personal site: a contact card over a painted WebGL sky with the real sun, moon and weather. Astro 7, React 19, Tailwind 4, Cloudflare. |
-| **[atelier](https://github.com/pavstev/atelier)** | Rust · TypeScript | Study a photo like a painter. Values, shapes, edges and a grid over your own photo, drawn by a Rust core in your browser. Photos never leave the device. |
+| **[atelier](https://github.com/pavstev/atelier)** | TypeScript · Rust | Study a photo like a painter. Values, shapes, edges and a grid over your own photo, drawn by a Rust core in your browser. Photos never leave the device. |
 | **[product-finder](https://github.com/pavstev/product-finder)** | TypeScript | BASF Product Finder take-home |
 | **[tackroom](https://github.com/pavstev/tackroom)** | Rust · Shell | An AI coding harness: skills, agents, rules, guard hooks and a status line for Claude Code, Cursor and Opencode. |
 | **[dotfiles](https://github.com/pavstev/dotfiles)** | Rust · Shell | AI-ready dotfiles for macOS, Linux and Windows. One command sets up Claude Code, Cursor and Opencode with shared skills, agents, rules and guard hooks, plus a fast zsh terminal. |
